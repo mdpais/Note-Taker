@@ -20,7 +20,7 @@
   
   ## Link to deployed application
   
-  https://mdpais.github.io/REACT-Portfolio/
+  https://git.heroku.com/note-taker-sife
   
   ## License
   
