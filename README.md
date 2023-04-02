@@ -20,7 +20,7 @@
   
   ## Link to deployed application
   
-  https://git.heroku.com/note-taker-sife
+  https://note-taker-sife.herokuapp.com/
   
   ## License
   
